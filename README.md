@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Gemini_Generated_Image_gbqxtxgbqxtxgbqx.png" width="220" style="border-radius: 50%;">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Meklit</h1>
 <h3 align="center">Full-Stack Software Engineer 🚀</h3>
