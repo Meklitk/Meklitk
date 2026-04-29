@@ -2,64 +2,54 @@
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="center">
-I build scalable web applications and beautiful user experiences.<br>
-Turning ideas into real, impactful digital products.
+Building scalable web applications and elegant user experiences.<br>
+Turning ideas into impactful digital products.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
--  Passionate about building modern web applications  
--  Love solving real-world problems with clean code  
--  Focused on performance, scalability, and usability  
--  Always learning and growing  
+- Passionate about modern web development  
+- Enjoy solving real-world problems  
+- Focused on performance and scalability  
+- Continuously learning  
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧠
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,cs,python,java" />
+  <img height="40" src="https://skillicons.dev/icons?i=js,ts,php,cs,python,java" />
 </p>
 
-### ⚙️
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,tailwind,bootstrap,dotnet" />
+  <img height="40" src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,tailwind,bootstrap,dotnet" />
 </p>
 
-### 🗄️
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mssql" />
+  <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mssql" />
 </p>
 
 ---
 
-##  What I Do
+## 🚀 What I Do
 
--  Build scalable full-stack applications  
--  Create clean and responsive UI/UX  
--  Develop secure and efficient APIs  
--  Optimize performance and databases  
-
----
-
-##  Focus
-
- Clean, maintainable code  
-Scalable systems  
- Great user experiences  
+- Build scalable full-stack applications  
+- Create clean and responsive interfaces  
+- Develop secure APIs  
+- Optimize systems and databases  
 
 ---
 
-##  Fun Side
+## 🎯 Focus
 
-💡 Turning ideas into real products  
-☕ Coffee + Code = ❤️  
+- Clean, maintainable code  
+- Scalable systems  
+- Great user experience  
 
 ---
 
 <p align="center">
-  💖 Crafted with passion by <b>Meklit Kidanu</b>
+  💖 Meklit Kidanu
 </p>
