@@ -1,54 +1,64 @@
-<h1 align="center">Hi 👋, I'm Meklit Kidanu</h1>
-<h3 align="center">Full-Stack Software Engineer 🚀</h3>
+<h1 align="center">Meklit Kidanu</h1>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="center">
-I design and build scalable web applications and modern digital products.<br>
-Focused on clean architecture, performance, and delivering real-world impact through code.
+Building scalable systems and elegant user experiences.<br>
+Focused on clean architecture, performance, and real-world impact.
 </p>
+
+---
+
+## 💼 About Me
+
+I am a Full-Stack Software Engineer specializing in building modern, scalable web applications.  
+I focus on writing clean, maintainable code and designing systems that are both robust and user-friendly.
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,cs,python,java" />
-</p>
+- JavaScript (ES6+), TypeScript  
+- PHP, C#, Python, Java  
 
 ### ⚙️ Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,tailwind,bootstrap,dotnet" />
-</p>
+- Laravel, React, Next.js  
+- Node.js, Express  
+- ASP.NET  
+- Tailwind CSS, Bootstrap  
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mssql" />
-</p>
+- PostgreSQL, MySQL  
+- MongoDB, Microsoft SQL Server  
 
 ---
 
 ## 🚀 What I Do
 
-- 🔹 Build scalable full-stack web applications  
-- 🔹 Design intuitive and responsive user interfaces  
-- 🔹 Develop robust APIs and backend systems  
-- 🔹 Work across modern stacks (Laravel, React, Node.js, ASP.NET)  
-- 🔹 Manage both SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB)
+- Design and develop scalable full-stack applications  
+- Build clean, responsive, and user-focused interfaces  
+- Develop secure and high-performance APIs  
+- Optimize backend systems and database structures  
 
 ---
 
-## 🎯 Focus
+## 🎯 Professional Focus
 
-I’m passionate about building efficient, maintainable systems that solve real problems and create meaningful user experiences.
+I am passionate about creating systems that are:
+
+- Efficient and scalable  
+- Easy to maintain and extend  
+- Built with real users in mind  
 
 ---
 
-## ✨ Fun Fact
+## ✨ Personal Note
 
-💡 I enjoy transforming ideas into fully functional products that people actually use.
+I believe great software is a balance of logic and creativity—  
+turning ideas into impactful digital experiences.
 
 ---
 
 <p align="center">
-  ⭐️ Crafted with passion by <b>Meklit Kidanu</b>
+  <i>Crafted with precision and purpose by Meklit Kidanu</i>
 </p>
