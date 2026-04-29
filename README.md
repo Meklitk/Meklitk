@@ -1,64 +1,66 @@
-<h1 align="center">Meklit Kidanu</h1>
+<h1 align="center">Hi 👋, I'm Meklit Kidanu</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="center">
-Building scalable systems and elegant user experiences.<br>
-Focused on clean architecture, performance, and real-world impact.
+✨ I build scalable web applications and beautiful user experiences.<br>
+💡 Turning ideas into real, impactful digital products.
 </p>
 
 ---
 
-## 💼 About Me
+## 👩‍💻 About Me
 
-I am a Full-Stack Software Engineer specializing in building modern, scalable web applications.  
-I focus on writing clean, maintainable code and designing systems that are both robust and user-friendly.
+- 🚀 Passionate about building modern web applications  
+- 🧩 Love solving real-world problems with clean code  
+- 🎯 Focused on performance, scalability, and usability  
+- 🌱 Always learning and improving  
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-- JavaScript (ES6+), TypeScript  
-- PHP, C#, Python, Java  
+<p>
+  💛 JavaScript | 💙 TypeScript | 🐘 PHP | ⚡ C# | 🐍 Python | ☕ Java
+</p>
 
 ### ⚙️ Frameworks & Tools
-- Laravel, React, Next.js  
-- Node.js, Express  
-- ASP.NET  
-- Tailwind CSS, Bootstrap  
+<p>
+  🔷 Laravel | ⚛️ React | ▲ Next.js | 🟢 Node.js | 🚂 Express <br>
+  🎨 Tailwind CSS | 🅱️ Bootstrap | 🧱 ASP.NET
+</p>
 
 ### 🗄️ Databases
-- PostgreSQL, MySQL  
-- MongoDB, Microsoft SQL Server  
+<p>
+  🐘 PostgreSQL | 🐬 MySQL | 🍃 MongoDB | 🟥 SQL Server
+</p>
 
 ---
 
 ## 🚀 What I Do
 
-- Design and develop scalable full-stack applications  
-- Build clean, responsive, and user-focused interfaces  
-- Develop secure and high-performance APIs  
-- Optimize backend systems and database structures  
+- 🏗️ Build scalable full-stack applications  
+- 🎨 Create clean and responsive UI/UX  
+- 🔗 Develop secure and efficient APIs  
+- ⚡ Optimize performance and databases  
 
 ---
 
-## 🎯 Professional Focus
+## 🎯 Focus
 
-I am passionate about creating systems that are:
-
-- Efficient and scalable  
-- Easy to maintain and extend  
-- Built with real users in mind  
+✨ Writing clean, maintainable code  
+📈 Building systems that scale  
+💻 Creating products users actually enjoy  
 
 ---
 
-## ✨ Personal Note
+## 🌸 Fun Side
 
-I believe great software is a balance of logic and creativity—  
-turning ideas into impactful digital experiences.
+💡 I enjoy transforming ideas into real products  
+☕ Coffee + Code = My happy place  
 
 ---
 
 <p align="center">
-  <i>Crafted with precision and purpose by Meklit Kidanu</i>
+  💖 Crafted with passion by <b>Meklit Kidanu</b>
 </p>
