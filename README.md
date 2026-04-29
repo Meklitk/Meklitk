@@ -33,23 +33,6 @@ Turning ideas into impactful digital products.
 
 ---
 
-## 🚀 What I Do
-
-- Build scalable full-stack applications  
-- Create clean and responsive interfaces  
-- Develop secure APIs  
-- Optimize systems and databases  
-
----
-
-## 🎯 Focus
-
-- Clean, maintainable code  
-- Scalable systems  
-- Great user experience  
-
----
-
 <p align="center">
   💖 Meklit Kidanu
 </p>
